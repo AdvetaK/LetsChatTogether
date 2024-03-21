@@ -1,0 +1,8 @@
+body {
+    background-color: lightcoral;
+    color: rgb(0, 0, 66);
+    font-size: medium;
+    font-weight: bolder;
+    font-style: oblique;
+    padding-inline: 20px;
+}
